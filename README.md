@@ -102,7 +102,7 @@ No installation is required. This is a client-side application. Simply clone the
 Application Workflow:
 
 User visits index.html -> Authenticates -> Saves data to localStorage -> Redirects to map.html.
-[Workflow](docs/workflow.png)
+
 
 ---
 
