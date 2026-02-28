@@ -50,7 +50,7 @@ Theme Customization: Switch between Pink, Blue, and Green themes which update th
 
 Data Persistence: Uses localStorage to save user credentials, preferences, and theme choices.
 
-Interactive UI: Features decorative, theme-matching shapes (triangles and circles) in the background.
+
 ---
 
 ## Implementation
@@ -75,35 +75,34 @@ No installation is required. This is a client-side application. Simply clone the
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Screenshots 
 
-![<img width="1915" height="916" alt="image" src="https://github.com/user-attachments/assets/580083c9-51a7-4d2d-b1b8-9b81ca2f302a" />
-](registration page)
+<img width="1915" height="916" alt="image" src="https://github.com/user-attachments/assets/580083c9-51a7-4d2d-b1b8-9b81ca2f302a" />
+(registration page)
 *shows registration page to type in username and setup password and pick your preferences*
 
-![<img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/3746b536-0a0e-440b-93c6-8aee56bb10bc" />
-](the map and journal)
+<img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/3746b536-0a0e-440b-93c6-8aee56bb10bc" />
+(the map and journal)
 *shows the colour coded map along with likes dislike and journal*
 
-![<img width="1911" height="919" alt="image" src="https://github.com/user-attachments/assets/4f4d5b40-36bd-4f95-b0fb-74a3fddfdc6f" />
-](suggestions page)
+<img width="1911" height="919" alt="image" src="https://github.com/user-attachments/assets/4f4d5b40-36bd-4f95-b0fb-74a3fddfdc6f" />
+(suggestions page)
 *map of suggestions and what it was choosen based off*
 
 ##Diagrams
-Application Workflow:
 
-User visits index.html -> Authenticates -> Saves data to localStorage -> Redirects to map.html.
 
 **System Architecture:**
 
 !<img width="1104" height="400" alt="image" src="https://github.com/user-attachments/assets/888e52e6-a59d-47db-a325-4e6af83d998f" />
-](Diagrams
-*Explain your system architecture - components, data flow, tech stack interaction*
+
+
 
 **Application Workflow:**
+Application Workflow:
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+User visits index.html -> Authenticates -> Saves data to localStorage -> Redirects to map.html.
+[Workflow](docs/workflow.png)
 
 ---
 
@@ -139,14 +138,10 @@ Description: Stores the username of the currently logged-in user.
 ### Video
 [https://drive.google.com/file/d/1WoFDITYnFtNHzReHk9DvLZz5ZRzKZftp/view?usp=drive_link]
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+this video shows 2 instances. first of a new user who has to set up a new username and password and is meet with a fresh map to fill and then off a experienced user who has already started to input their journey
 
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
 
----
-
-## AI Tools Used (Optional - For Transparency Bonus)
+## AI Tools Used 
 
 AI Tools Used
 Tool Used: Gemini
@@ -171,28 +166,19 @@ Defining project requirements.
 
 Testing and debugging.
 
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
+
 
 ---
 
 ## Team Contributions
 
-Team Contributions
+
 Devika Prasoon N : Project lead, development, and documentation.
 
 Anusree R: Frontend styling, testing, and UI refinements.
 
 ---
 
-## License
 
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
-
-**Common License Options:**
-- MIT License (Permissive, widely used)
-- Apache 2.0 (Permissive with patent grant)
-- GPL v3 (Copyleft, requires derivative works to be open source)
-
----
 
 Made with ❤️ at TinkerHub
