@@ -134,9 +134,7 @@ Description: Stores the username of the currently logged-in user.
 
 
 ## Project Demo
-
-### Video
-[https://drive.google.com/file/d/1WoFDITYnFtNHzReHk9DvLZz5ZRzKZftp/view?usp=drive_link]
+(https://drive.google.com/file/d/1Vp43JPp9IMUEswpAjtT41TIbKCDsFLW0/view?usp=drive_link)]
 
 this video shows 2 instances. first of a new user who has to set up a new username and password and is meet with a fresh map to fill and then off a experienced user who has already started to input their journey
 
